@@ -5,7 +5,7 @@
 
 		"Frequence": "1",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
-		"specificationAds": "1",
+		"specificationAds": "2",
 "rate us explication": "chhal men lancement 3ada iban rate",
 	"RateUsPop": "2",
 
