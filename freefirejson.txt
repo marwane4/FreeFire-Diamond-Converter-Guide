@@ -3,7 +3,7 @@
 "version": "MAKS Studios",
 "frequence explication": "frequence kithakem f chhal men click iban ads",
 
-		"Frequence": "1",
+		"Frequence": "3",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
 		"specificationAds": "2",
 "rate us explication": "chhal men lancement 3ada iban rate",
@@ -28,7 +28,7 @@
 	
 	"FanInter": "2907007406223782_2907011776223345",
 	"FanBanner": "2907007406223782_2907758976148625",
-	"FanReward": "2907007406223782_2907011776223345",
+	"FanReward": "",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
