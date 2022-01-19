@@ -5,7 +5,7 @@
 
 		"Frequence": "6",
 		"specificationAds explication ": "0 automatique , 1 admob ,2fan ,3 unity , 4 iron",
-		"specificationAds": "2",
+		"specificationAds": "1",
 "rate us explication": "chhal men lancement 3ada iban rate",
 	"RateUsPop": "2",
 
@@ -19,10 +19,10 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "000",
-	"bannerId": "000",
-	"rewardadmob": "000",
+	"AdmobAppId": "ca-app-pub-8126478757199298~3814516144",
+	"interId": "ca-app-pub-8126478757199298/8834892620",
+	"bannerId": "ca-app-pub-8126478757199298/6400300972",
+	"rewardadmob": "ca-app-pub-8126478757199298/6017157591",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
