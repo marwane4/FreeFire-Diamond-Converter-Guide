@@ -26,14 +26,14 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "2907007406223782_2907011776223345",
-	"FanBanner": "2907007406223782_2907758976148625",
+	"FanInter": "",
+	"FanBanner": "",
 	"FanReward": "",
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "3",
-	"UnityInter": "video",
-	"Unitybanner": "banner",
-	"unityreward": "rewardedVideo"
+	"UnityAppId": "",
+	"UnityInter": "",
+	"Unitybanner": "",
+	"unityreward": ""
 }
