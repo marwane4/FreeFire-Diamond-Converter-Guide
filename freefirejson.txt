@@ -21,7 +21,7 @@
 
 	"AdmobAppId": "ca-app-pub-8126478757199298~3814516144",
 	"interId": "ca-app-pub-8126478757199298/8834892620",
-	"bannerId": "ca-app-pub-8126478757199298/6400300972",
+	"bannerId": "ca-app-pub-8126478757199298/",
 	"rewardadmob": "ca-app-pub-8126478757199298/6017157591",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
